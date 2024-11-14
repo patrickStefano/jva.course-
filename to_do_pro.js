@@ -36,7 +36,7 @@ function renderTodo(){
     console.log(todoListHTML);
 }
 
-
+// The console.log fo displaying
 
     function addTodo(){
       const inputElement = document.querySelector(".js-name-input");
